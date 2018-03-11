@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Pub game</string>
+
+    <string name="beer">" beer"</string>
+    <string name="vine">" vine"</string>
+    <string name="shot">" shot"</string>
+
+    <plurals name="beer">
+        <item quantity="zero">" beer"</item>
+        <item quantity="one">" beer"</item>
+        <item quantity="other">" beers"</item>
+    </plurals>
+
+    <plurals name="vine">
+        <item quantity="zero">" vine"</item>
+        <item quantity="one">" vine"</item>
+        <item quantity="other">" vines"</item>
+    </plurals>
+
+    <plurals name="shot">
+        <item quantity="zero">" shot"</item>
+        <item quantity="one">" shot"</item>
+        <item quantity="other">" shots"</item>
+    </plurals>
+
+</resources>
